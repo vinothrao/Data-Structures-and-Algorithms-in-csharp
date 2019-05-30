@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStructuresClient/DataStructuresClient/obj
+/.vs
+/DataStructuresClient/DataStructureImplementation/obj
+/DataStructuresClient/.vs/DataStructuresClient/v15/Server/sqlite3
+/DataStructuresClient/DataStructureImplementation/bin/Debug/netcoreapp2.2
+/DataStructuresClient/DataStructuresClient/bin/Debug/netcoreapp2.2
