@@ -24,7 +24,7 @@ namespace DataStructureImplementation
         public int pop()
         {
             if (IsEmpty())
-                throw new Exception("Stack is empty");]
+                throw new Exception("Stack is empty");
             return stack[top];
         }
 

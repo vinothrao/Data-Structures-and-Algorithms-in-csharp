@@ -6,7 +6,7 @@ namespace DataStructureImplementation
 {
     class StackUsingLinkedList<T> where T:class
     {
-        node<T> head = null;
+        Node<T> head = null;
         
         public StackUsingLinkedList()
         {
@@ -22,13 +22,13 @@ namespace DataStructureImplementation
         {
             if(head==null)
             {
-                head = new node<T>(item,null);
+                head = new Node<T>(item,null);
                 
             }
             else
             {
-                node<T> oldNode = head;
-                head = new node<T>(item,oldNode);               
+                Node<T> oldNode = head;
+                head = new Node<T>(item,oldNode);               
             }
         }
 
@@ -44,14 +44,5 @@ namespace DataStructureImplementation
         }
     }
 
-    public class node<T> where T:class
-    {
-        public node(T item,node<T> node)
-        {
-            item = item;
-            next = node;
-        }
-        public T item;
-        public node<T> next ;
-    }
+   
 }
