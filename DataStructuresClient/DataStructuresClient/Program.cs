@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CompetitiveProgramming;
+using System;
 
 namespace DataStructuresClient
 {
@@ -6,6 +7,7 @@ namespace DataStructuresClient
     {
         static void Main(string[] args)
         {
+            SelectionSort.Sort(new int[] { 5, 4, 3, 2, 1 });
             Console.WriteLine("Hello World!");
         }
     }
