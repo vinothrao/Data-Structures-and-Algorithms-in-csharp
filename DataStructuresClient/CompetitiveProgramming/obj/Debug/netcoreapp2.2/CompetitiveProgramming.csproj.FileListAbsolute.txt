@@ -1,0 +1,9 @@
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\bin\Debug\netcoreapp2.2\CompetitiveProgramming.deps.json
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\bin\Debug\netcoreapp2.2\CompetitiveProgramming.dll
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\bin\Debug\netcoreapp2.2\CompetitiveProgramming.pdb
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.csproj.CoreCompileInputs.cache
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.AssemblyInfoInputs.cache
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.AssemblyInfo.cs
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.dll
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.pdb
+C:\Users\vino\Source\Repos\DataStructures and Algorithms\DataStructuresClient\CompetitiveProgramming\obj\Debug\netcoreapp2.2\CompetitiveProgramming.csprojAssemblyReference.cache

@@ -7,7 +7,7 @@ namespace DataStructuresClient
     {
         static void Main(string[] args)
         {
-            SelectionSort.Sort(new int[] { 5, 4, 3, 2, 1 });
+            InsertionSort.Sort(new int[] { 5, 4, 3, 2, 1 });
             Console.WriteLine("Hello World!");
         }
     }
